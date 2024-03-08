@@ -85,12 +85,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `email`, `password`) VALUES
-(8, 'abdelrahman hamza', 'abdelrahmanmohamed4141@gmail.com', '8950259507cd8ce2a99f8b94674f2b77'),
-(9, 'sara hamza', 'sarahamza@gmail.com', '5bd537fc3789b5482e4936968f0fde95'),
-(10, 'user 1', 'user1@gamil.com', '8950259507cd8ce2a99f8b94674f2b77'),
-(11, 'saraaaa', 'sara@gmail.com', '5bd537fc3789b5482e4936968f0fde95');
-
 --
 -- Indexes for dumped tables
 --
